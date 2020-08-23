@@ -2,6 +2,7 @@
  
 ## Introduction @unplugged 
 ![DThoch2 Logo](/static/logo.png)
+![DThoch2 Logo](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/logo.png)
  
 ## Step 2 wenn geschüttelt Block platzieren 
 Platzieren Sie zuerst einen ``||input:wenn geschüttelt||`` Block. Ihr micro:bit Programm startet also sobald der micro:bit geschüttelt wird. 
