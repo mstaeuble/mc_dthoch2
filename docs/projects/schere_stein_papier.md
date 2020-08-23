@@ -1,7 +1,7 @@
 # Schere, Stein, Papier
  
 ## Introduction @unplugged 
-![DThoch2 Logo](Bilder-und-Gifs/schere-stein-papier/Logo-DThoch2-standard.png)
+![DThoch2 Logo](/static/Logo-DThoch2-standard.png)
  
 ## Step 2 wenn geschüttelt Block platzieren 
 Platzieren Sie zuerst einen ``||input:wenn geschüttelt||`` Block. Ihr micro:bit Programm startet also sobald der micro:bit geschüttelt wird. 
