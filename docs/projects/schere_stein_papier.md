@@ -1,10 +1,10 @@
 # Schere, Stein, Papier
  
 ## Introduction @unplugged 
-![DThoch2 Logo](/static/logo.png)
-![DThoch2 Logo](./static/logo.gif)
-![DThoch2 Logo](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/logo.png)
- 
+![DThoch2 Logo](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/vorschaubild-schere-stein-papier.png)
+
+
+
 ## Step 2 wenn geschüttelt Block platzieren 
 Platzieren Sie zuerst einen ``||input:wenn geschüttelt||`` Block. Ihr micro:bit Programm startet also sobald der micro:bit geschüttelt wird. 
  
@@ -23,7 +23,7 @@ input.onGesture(Gesture.Shake, function () {
     hand = 0
 })
 ```
-![Definition der Variable hand und Platzierung](Bilder-und-Gifs/schere-stein-papier/step-3.gif)
+![Definition der Variable hand und Platzierung](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/MakeCode_Tutorial_Schritt_3_50.gif)
  
 ## Step 4 Zufallsblock platzieren
 Ersetzen Sie die 0 durch den Block ``||math:wähle eine zufällige Zahl von 0 bis 10||`` aus der Rubrik ``||math:Mathematik||``.
@@ -57,11 +57,11 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 ```
-![Bedingung wenn hand gleich 1 zeige Papier](Bilder-und-Gifs/schere-stein-papier/step-5.gif)
+![Bedingung wenn hand gleich 1 zeige Papier](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/MakeCode_Tutorial_Schritt_5_50.gif)
  
 ## Step 6 Schütteltest
 Klicken Sie nun auf den SHAKE-Button im Simulator. Wenn Sie es oft genug versuchen, sollte irgendwann das Papier angezeigt werden.
-![SHAKE betätigen](Bilder-und-Gifs/schere-stein-papier/step-6.gif)
+![SHAKE betätigen](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/MakeCode_Tutorial_Schritt_6_50.gif)
  
 ## Step 7 zweite Bedingung einfügen
 Klicken Sie nun auf das ``||logic:Plus||`` am Ende des ``||logic:wenn wahr dann||`` Blocks,
@@ -84,7 +84,7 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 ```
-![Plus anklicken](Bilder-und-Gifs/schere-stein-papier/step-7.gif)
+![Plus anklicken](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/MakeCode_Tutorial_Schritt_7_50.gif)
  
 ## Step 8 zweite Bedingung einfügen
 Fügen Sie nun einen ``||basic:zeige LEDs||`` Block in den ``||logic:ansonsten||`` Abschnitt ein und zeichnen Sie eine Schere.  
