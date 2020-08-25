@@ -1,7 +1,6 @@
 # Schere, Stein, Papier
  
 ## Introduction @unplugged 
-#![DThoch2 Logo](https://raw.githubusercontent.com/mstaeuble/mc_dthoch2/master/docs/static/vorschaubild-schere-stein-papier.png)
 ![DThoch2 Logo](/static/vorschaubild-schere-stein-papier.png)
 
 
